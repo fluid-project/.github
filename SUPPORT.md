@@ -1,7 +1,7 @@
 ## Support
 
 If you've encountered an issue, please consider filing an issue. 
-You may also reach out to us on [IRC](https://wiki.fluidproject.org/display/fluid/IRC+Channel) or the [fluid-work mailing list](https://lists.idrc.ocad.ca/mailman/listinfo/fluid-work).
+You may also reach out to us on [Matrix](https://wiki.fluidproject.org/display/fluid/Matrix+Channel) or the [fluid-work mailing list](https://lists.idrc.ocad.ca/mailman/listinfo/fluid-work).
 
 ## Participating
 
